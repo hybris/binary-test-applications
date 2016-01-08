@@ -1,0 +1,4 @@
+---
+applications:
+- name: binary-go-application
+  memory: 64M
